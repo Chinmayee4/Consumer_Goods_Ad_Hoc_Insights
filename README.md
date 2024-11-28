@@ -6,7 +6,7 @@ Atliq Hardwares, a leading computer hardware producer in India with a significan
 The primary objective of this repository is to demonstrate the application of SQL for data retrieval and analysis. Additionally, it highlights the use of PowerBI for data visualization to support the management in making smart, data-driven decisions.
 
 # Tools and Technologies Used
-**SQL: For querying databases and retrieving insights. -Joins -Subqueries -Common Table Expressions (CTE) -Window Functions **PowerBI: For creating interactive and insightful visualizations. -Creating measures -Custom columns -Various types of visuals
+**..SQL: For querying databases and retrieving insights. -Joins -Subqueries -Common Table Expressions (CTE) -Window Functions **..PowerBI: For creating interactive and insightful visualizations. -Creating measures -Custom columns -Various types of visuals
 
 # Insights
 The insights provided from this project cover all aspects of the company's business, including:
