@@ -17,3 +17,4 @@ Sales Performance: Analysis of sales data across different regions and time peri
 **Ad Hoc Requests**: A collection of specific data requests to answer business questions. **SQL Codes**: Scripts used for the ad hoc requests, demonstrating the use of joins, subqueries, CTEs, and window functions. **Presentations**: PowerBI-created visualizations and presentations that depict the data insights and findings.
 
 This repository serves as a resource for understanding how SQL and PowerBI can be utilized to transform raw data into meaningful insights, facilitating better business decisions at Atliq Hardwares.
+# Interactive Dashboard link:
